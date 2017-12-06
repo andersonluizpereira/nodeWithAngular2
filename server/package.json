@@ -1,0 +1,22 @@
+{
+  "name": "serverteste",
+  "version": "1.0.0",
+  "description": "backendN0d&",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonluizpereira/nodeWithAngular2.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "acpereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersonluizpereira/nodeWithAngular2/issues"
+  },
+  "homepage": "https://github.com/andersonluizpereira/nodeWithAngular2#readme"
+}
